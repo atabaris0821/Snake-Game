@@ -7,3 +7,4 @@ Before running the code you should install some librarys:
   *time
 if you have jupyter notebook in your computer you can run the file ends with ".ipynb"                                                                    
 else you should run the file ends with ".py"
+And you should put the "a.txt" file with the same folder as '.ipynb/ipy' file. 
